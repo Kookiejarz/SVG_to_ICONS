@@ -1,5 +1,8 @@
 # 🏷️ svg-icon-gen
 
+[![PyPI](https://img.shields.io/pypi/v/svg-icon-gen)](https://pypi.org/project/svg-icon-gen/)
+[![License](https://img.shields.io/github/license/Kookiejarz/SVG_to_ICONS)](LICENSE)
+
 A command-line tool that converts SVG files into production-ready icon sets for Windows and macOS, including automatic dark theme variants.
 
 ## Output
